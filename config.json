@@ -1,0 +1,5 @@
+{
+  "port": 3000,
+  "fileName": "file.dat",
+  "fileSize": "10m"
+}
